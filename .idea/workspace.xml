@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81218f4e-1e8a-45b6-84a4-a5a7ac278674" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD3-SS11-StackQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_StackLinkedList/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_StackLinkedList/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_QueueLinkedList/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_QueueLinkedList/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_QueueLinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH3_QueueArrays/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH3_QueueArrays/QueueClient.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N5X4u2yVtfzduNbvRcOBJaUxFo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.StackClient">
+    <configuration name="GenericStackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_StackLinkedList.GenericStackClient" />
+      <module name="MD3-SS11-StackQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH1_StackLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListQueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH2_QueueLinkedList.LinkedListQueueClient" />
+      <module name="MD3-SS11-StackQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH2_QueueLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH3_QueueArrays.QueueClient" />
+      <module name="MD3-SS11-StackQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH3_QueueArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH4_StackArrays.StackClient" />
+      <module name="MD3-SS11-StackQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH4_StackArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StackClient" />
+        <item itemvalue="Application.QueueClient" />
+        <item itemvalue="Application.LinkedListQueueClient" />
+        <item itemvalue="Application.GenericStackClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81218f4e-1e8a-45b6-84a4-a5a7ac278674" name="Changes" comment="" />
+      <created>1678954730195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678954730195</updated>
+      <workItem from="1678954731108" duration="1402000" />
+      <workItem from="1678975357140" duration="1301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
